@@ -63,7 +63,8 @@ body {
   flex: 1; }
 
 .logo {
-  height: 3.25rem;
+  height: 4.25rem;
+  width: 4.25rem;
   margin-left: 2rem; }
 
 .search {
@@ -139,6 +140,10 @@ body {
     height: 3.75rem;
     border-radius: 50%;
     margin-right: 1rem; }
+
+.side-nav__icon {
+  width: 1.75rem;
+  height: 1.75rem; }
 
 .legal {
   font-size: 1.2rem;
